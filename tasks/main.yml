@@ -1,2 +1,3 @@
 ---
-- include: users.yml
+- debug:
+    msg: "This test passed"
