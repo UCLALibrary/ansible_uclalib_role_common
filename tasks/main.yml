@@ -1,3 +1,6 @@
 ---
 - debug:
     msg: "This test passed"
+    
+- debug:
+    msg: "I passed again"
