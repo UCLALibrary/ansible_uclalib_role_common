@@ -1,0 +1,7 @@
+---
+- name: Converge
+  hosts: all
+  tasks:
+    - name: "Include uclalib_role_template"
+      include_role:
+        name: "uclalib_role_template"
